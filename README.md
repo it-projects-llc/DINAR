@@ -2,7 +2,7 @@
 
 **D**inar **I**s **N**ot **A** **R**unbot.
 
-DINAR helps you to configure Github Actions to run lint checks in Pull Requests in odoo addons repositories
+DINAR helps you to configure Github Actions to test and preview Odoo addons.
 
 # Usage
 
